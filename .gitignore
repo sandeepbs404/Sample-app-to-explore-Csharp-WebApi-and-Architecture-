@@ -3,3 +3,14 @@
 ################################################################################
 
 /CustomeConfiguration/obj
+/AuthServer/obj
+/IntroBasic/obj
+/IntroBasic/bin
+/ObjectMapper/obj
+/packages
+/Persistence/obj/Release
+/ProductManagement.Service/obj
+/ProductManagement.WebApi/obj
+/TestConcepts/obj
+/UiApp/obj
+/UiApp.Tests/obj
